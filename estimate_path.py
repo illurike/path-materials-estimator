@@ -45,3 +45,5 @@ print(f"Щебень: {gravel_volume:.2f} м³ / {gravel_weight:.2f} т")
 print(f"Стоимость песка: {sand_cost:,.0f} руб.".replace(",", " "))
 print(f"Стоимость щебня: {gravel_cost:,.0f} руб.".replace(",", " "))
 print(f"ИТОГО: {total_cost:,.0f} руб.".replace(",", " "))
+
+int test
